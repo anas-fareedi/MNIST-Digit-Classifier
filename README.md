@@ -61,7 +61,7 @@ Run the Streamlit app:
 ```
 streamlit run app.py
 ```
-🧩 Usage
+## Usage
 
 Upload an image of a handwritten digit (.png, .jpg, etc.)
 
@@ -69,7 +69,7 @@ The app will preprocess the image (convert to grayscale, resize to 28x28)
 
 The trained CNN model will predict the digit and display the result instantly
 
-🧠 Model Overview
+## Model Overview
 
 Input layer: 1×28×28 grayscale image
 
@@ -96,5 +96,3 @@ AI & ML Developer | Python Enthusiast | Backend Developer
 This project is licensed under the MIT License — you’re free to use, modify, and distribute it with proper credit.
 
 ⭐ If you found this project helpful, don’t forget to give it a star on GitHub!
-## 📁 Project Structure
-
