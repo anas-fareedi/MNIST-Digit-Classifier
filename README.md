@@ -14,6 +14,9 @@ This project also includes a **Streamlit-based web app** that allows users to up
 - 📊 **Accurate Results:** Achieves over 98% accuracy on test data  
 
 ---
+<img width="968" height="871" alt="image" src="https://github.com/user-attachments/assets/c82128fa-b5b4-4549-9f59-1c35bb7907b9" />
+
+---
 
 ## 🧰 Tech Stack
 
